@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "reactBare",
+    "slug": "reactBare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
